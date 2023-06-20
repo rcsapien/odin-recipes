@@ -1,1 +1,3 @@
 # odin-recipes
+
+I'm going to learn some HTML in this lesson. But biggest test is keeping my Git setup. So far so good...
